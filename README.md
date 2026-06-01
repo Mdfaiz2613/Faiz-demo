@@ -1,4 +1,4 @@
 # Faiz-demo
-this is my first important repository.
+This is my first important repository.
 <br>
-author - mohammad faiz
+Author - Mohammad Faiz
